@@ -1,2 +1,2 @@
 # miprueba
-prueba clase phyton
+prueba clase python
